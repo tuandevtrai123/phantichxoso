@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XSKT", "XSKT\XSKT.csproj", "{C0B544E0-C2B9-4292-A3CA-29577F80D23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B544E0-C2B9-4292-A3CA-29577F80D23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B544E0-C2B9-4292-A3CA-29577F80D23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B544E0-C2B9-4292-A3CA-29577F80D23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B544E0-C2B9-4292-A3CA-29577F80D23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E7036F-7EF2-4154-BF92-361A74604D54}
+	EndGlobalSection
+EndGlobal
